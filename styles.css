@@ -12,15 +12,15 @@ h1 {
 }
 
 img {
-  height: 40pt;
-  width: 40pt;
-  margin: 6pt;
+  height: 50px;
+  width: 40px;
+  margin-right: 10px;
 }
 
 .header {
   display: flex;
   align-items: center;
-  margin: 30pt;
+  margin: 30px;
 }
 
 .content-wrapper {
@@ -38,8 +38,8 @@ img {
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
-  font-size: 16px;
-  border-radius: 10pt;
+  font-size: 12pt;
+  border-radius: 10px;
   transition: background-color 0.5s;
 }
 .contact-button:hover {
